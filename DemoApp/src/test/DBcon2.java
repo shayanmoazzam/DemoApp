@@ -20,6 +20,7 @@ public class DBcon2 {
 			{
 				
 			System.out.println(rs.getString(1)+"\t"+rs.getString(2)+"\t"+rs.getString(3)+"\t"+rs.getInt(4));
+             int m=10;
 				
 			}
 			
